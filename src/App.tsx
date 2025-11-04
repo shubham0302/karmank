@@ -20,7 +20,7 @@ const Privacy = lazy(() => import("./pages/Privacy"));
 const Terms = lazy(() => import("./pages/Terms"));
 const Refund = lazy(() => import("./pages/Refund"));
 const Disclaimer = lazy(() => import("./pages/Disclaimer"));
-const ModulesStack = lazy(() => import("./pages/landing/ModulesStack"));
+const ModulesStack = lazy(() => import("./pages/Landing/ModulesStack"));
 
 // App feature pages (lazy-loaded)
 const NumerologyPage = lazy(() => import("./pages/app/NumerologyPage"));
